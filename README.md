@@ -30,15 +30,3 @@ To use this component in your React project, follow these steps:
 
 To use the Password Generator component in your own project, simply import it and include it in your JSX:
 
-```javascript
-import Password from './path/to/Password';
-
-function App() {
-  return (
-    <div className="App">
-      <Password />
-    </div>
-  );
-}
-
-export default App;
